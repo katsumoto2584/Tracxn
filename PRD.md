@@ -44,6 +44,10 @@ As a product owner, I want the feature to be surfaced only when the cursor is ov
 
 ## Designs
 
+Preliminary design flow:
+
+![image](https://github.com/katsumoto2584/about-you/blob/main/ux-wireframe.png)
+
 ## Timeline
 
 ## Follow up tasks
