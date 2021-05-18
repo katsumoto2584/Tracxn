@@ -40,7 +40,7 @@ As a customer, I want to chose amongst the available sizes from the category pag
 As a customer, I want to chose amongst the available colors from the category page product tile. | The system should present a responsive option at the tile to the user to select a given color in particular. | Nice to have
 As a product owner, I want the feature to be surfaced only when the cursor is over the product tile, so that a neat and abstractive view of the page is maintained. | The system must highlight the new added feature icon once a user takes the cursor over the product tile | Nice to have
 
-### Future Enhancements
+
 
 ## Designs
 
@@ -48,6 +48,18 @@ Preliminary design flow:
 
 ![image](https://github.com/katsumoto2584/about-you/blob/main/ux-wireframe.png)
 
-## Timeline
 
 ## Follow up tasks
+
+Upon submission of the above Product Requirement Document, following actions are required to be taken:
+
+ 1. Communicate the requirement with the stakeholders and validate the completeness.
+    - The PRD must satisfy the stakeholders' need along with the corresponding performance, environmental and non-functional requirement metrics. 
+    - `Requirement Tracing` shall be employed in event of any available voids.
+ 
+ 2. Refine, Analyze and Defragment Requirements.
+ 3. Validate Requirements
+    - Each and every requirement(s) listed or further derived shall be verified and validated to ensure the accuracy. Our derivations must meet the overall objective.
+
+4. Move to System Engineering.
+   - Upon successfull validation, move the requirement to the production. 
