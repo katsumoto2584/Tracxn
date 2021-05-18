@@ -8,7 +8,7 @@
 
 ### Stakeholders
 
- - #### Owner       : Rodrigo
+ - #### Owner       : Rodrigo Gallegos Anda
  - #### Design      : @design team
  - #### Development : @development team
  - #### QA/ Testing : @QA div
