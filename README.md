@@ -1,6 +1,6 @@
 # AY Intern Product Management (CRM) Task
 
-The task is subjected towards the position of Product Development Intern in the CRM tech team diviaion at AY. 
+The task is subjected towards the position of Product Development Intern in the CRM tech team division at AY. 
 
 The challenge is to design a technical document explaining a particular feature addition in the existing shelf. The document/dozier is aimed towards the allignement of all the stakeholders with a shared understanding of the 3 main aspects:
 
