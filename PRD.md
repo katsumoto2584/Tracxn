@@ -1,6 +1,6 @@
 # PRODUCT REQUIREMENT DOCUMENT
 
-## Background
+## `Background` 
 
 YouTube's primary sources of revenue is Advertisements. While the focused revenue model benefits the users (owner), frequent in-feed video ads can  be a factor in dwindled user experience.
 
@@ -22,21 +22,21 @@ While In-feed video, Bumper and outstream ads appear in either the search page o
 ---
 
 
- ## **Goal**
+ ## `Goal`
 
 
 While the platform proffers the premium subscription model for ad-free viewing experience, however, majority of the users prefers to stay on the basic version. 
 
 ```
-Our objective is to improve overall viewing experience by offering end-user some flexibility of going Ad-Free for a short
-span of time. 
+Our objective is to improve overall viewing experience by offering end-user some flexibility of going Ad-Free for a relatively
+shorter period of time. 
 ```
 
 ### Strategic Fit
 
 ---
 
-## Scope
+## `Scope`
 
 ### Technical Assumptions
 
@@ -54,6 +54,7 @@ Although the user base on YouTube can be classified on various grounds and based
 - **DIY enthusiasts**: Users who are interested and invested in *Do-It-Yourself* videos. Users engagement can/may vary from cooking receipies to craftsmanship. 
 - **Current affairs & trend followers**: They want to watch a live video of a current event or listen to news / analysis about an event.
 
+
 >Average run-time for the skill development and DIY content is longer than that of other categories. The proposed solution is conceptualized keeping **Skill developers** & **DIY enthusiasts** in the epicenter.
 
 ### Pain Points 
@@ -61,7 +62,7 @@ Although the user base on YouTube can be classified on various grounds and based
 
 Since the average runtime of the highlighted content genre is substantially larger than that of other categories, it is assumable that viewers take break(s) in between. However, the overall user-experience reduces:
 
-1. When user have to watch multiple ads during the same video.
+ 1. when user have to watch multiple ads during the same video.
 2. when user have to pause the video for longer than 60 min and upon resuming a new ad is forced upon.
 3. when user have to pause the video for longer than 60 min and has to reload the video with a forced ad.
 4. when user have to switch between videos for connected content and have to watch ads upon switch. 
@@ -70,20 +71,61 @@ Since the average runtime of the highlighted content genre is substantially larg
 
 **User Story** | **Requirement** | **Priority**
 -----------|-------------|---------
- As an end-user, I want to be able to watch a video uninterrupted.| | Must have
- As an end-user, I should be able to resume my videos, after a long duration, from the point where I paused it.| | Must have
- As an end-user, I do not want to see ads again when I switch back from another video to the ongoing playback. | | Must have
- As an end-user, I would like to get option to skip ads irrespective of the nature of ad.| | Optional
+ As an end-user, I want to be able to watch a video uninterrupted.| The platform must allow the user an option to go ad-free just for a given video | Must have
+ As an end-user, I should be able to resume my videos, after a long duration, from the point where I paused it.| The platform must ask the user to resume the video after a long pause without imposing new ad| Must have
+ As an end-user, I do not want to see ads again when I switch back from another video to the ongoing playback. | The platform must provide and ad-free time period where content switching is permissible.| Must have
+ As an end-user, I would like to get option to skip ads irrespective of the nature of ad.| The platform should provide an option to skip (tim- bound) Non- skippable in-stream ads| Optional
  
 ---
-## Viable Solutions
+## `Viable Solutions`
+
+Based on the user stories and requirements, following feature(s) are devised so that a user will be able to choose whether to:
+
+- Enjoy the whole video without any ad(s)
+
+  - This feature not time-based. The user can start a video and watch it at his/her convenience with no-ad(s) for that particular video.
+  - Irrespective of the amount and duration of in-between pauses.
+  - valid for a single run-time.
+
+- Get an option to skip ads with advance notification of upcoming ad.
+
+  - For a running video, the system notifies the viewer 30 seconds before an upcoming ad. 
+  - Thus giving the user ample amount of time to decide whether to watch it or skip it.
+
+- Get an ad-free time bracket. 
+
+  - Allows a user to go ad-free for a certain amount of time.
+  - The time can range from 60 min to 600 min.
+  - The user can select a particular timeframe as well [1030 - 1515]
+
+The above feature can be availed by the user in the form of 
+
+1. `Limited Ad-free experience for a Cost.`
+  > The user can avail the proposed features by paying a certain defined amount.
 
 
+   **Pros** | **Cons** 
+ -----------|-------------
+ 
+
+3. `Limited Ad-free experience for Survey(s) Participation.`
+ > The users can fill survey forms and participate in voting surveys to earn ad-free time. 
+
+   **Pros** | **Cons** 
+ -----------|-------------
+ 
+
+5. `Limited Ad-free experience for Ad(s) Accrued in future videos.`
+ > The user can chose to go ad-free at for a given time and accrue all the ads over the future video(s).  
+
+   **Pros** | **Cons** 
+ -----------|-------------
+ 
 
 ---
-## Success Criteria
+## `Success Criteria`
 
-## Follow up tasks
+## `Follow up tasks`
 
 Upon submission of the above Product Requirement Document, following actions are required to be taken:
 
