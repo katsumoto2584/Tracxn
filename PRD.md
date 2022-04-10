@@ -100,29 +100,54 @@ Based on the user stories and requirements, following feature(s) are devised so 
 
 The above feature can be availed by the user in the form of 
 
-1. `Limited Ad-free experience for a Cost.`
-  > The user can avail the proposed features by paying a certain defined amount.
+ > ### 1. Limited Ad-free experience for a Cost.
 
 
-   **Pros** | **Cons** 
- -----------|-------------
+   The user can avail the proposed features by paying a certain defined amount.
+
+
+ |  **Pros** | **Cons** |                                         
+ |  :----- |    :---- |                                           
+ | Simple pricing structure |     Extra financial burden on users|                         
+ | Wide payment options including Google play card | 
+ | Easy to acquire | 
+  
  
 
-3. `Limited Ad-free experience for Survey(s) Participation.`
- > The users can fill survey forms and participate in voting surveys to earn ad-free time. 
+ > ### 2. Limited Ad-free experience for Survey(s) Participation.
 
-   **Pros** | **Cons** 
- -----------|-------------
- 
 
-5. `Limited Ad-free experience for Ad(s) Accrued in future videos.`
- > The user can chose to go ad-free at for a given time and accrue all the ads over the future video(s).  
+  The users can fill survey forms and participate in voting surveys to earn ad-free time. 
 
-   **Pros** | **Cons** 
- -----------|-------------
- 
+|  **Pros** | **Cons** |
+| :------- | :---- |
+| No extra financial burden on the user | Long surveys can be time-consuming. |
+|Easy to fill surveys. | videos of long runtime will incur multiple surveys/polls |
+|Pollings offered in regional language | No flat ad-free credit method.|
+||The amount of ad-free time or skip-passes collected will vary based on the survey and polls.|
+
+
+
+
+ > ### 3. Limited Ad-free experience for Ad(s) Accrued in future videos.
+  
+  
+  The user can chose to go ad-free at for a given time and accrue all the ads over the future video(s).  
+
+  | **Pros** | **Cons** | 
+ | :------ | :-------- |
+ | Easy to comprehend process | Ads are not been removed or skipped, its just delayed |
+ | No upfront cost for the user | limit over the permissible accrual of ads |
+ | handy in case of urgency | not suitable for long duration videos, as a single video might fill the accrual threshold of ads |  
+
+
+
+
+After analysing implementation medium against each other, `Limited Ad-free experience for a Cost` seems to be the best suited option. The simplicity of the structure and pricing method certainly outshines amongst all other and thus is to be implemented.   
+
 
 ---
+
 ## `Success Criteria`
 
 ## `Follow up tasks`
