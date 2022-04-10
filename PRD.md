@@ -22,7 +22,7 @@ While In-feed video, Bumper and outstream ads appear in either the search page o
 ---
 
 
- ## `Goal`
+## `Goal`
 
 
 While the platform proffers the premium subscription model for ad-free viewing experience, however, majority of the users prefers to stay on the basic version. 
@@ -100,7 +100,7 @@ Based on the user stories and requirements, following feature(s) are devised so 
 
 The above feature can be availed by the user in the form of 
 
- > ### 1. Limited Ad-free experience for a Cost.
+ > #### 1. Limited Ad-free experience for a Cost.
 
 
    The user can avail the proposed features by paying a certain defined amount.
@@ -114,7 +114,7 @@ The above feature can be availed by the user in the form of
   
  
 
- > ### 2. Limited Ad-free experience for Survey(s) Participation.
+ > #### 2. Limited Ad-free experience for Survey(s) Participation.
 
 
   The users can fill survey forms and participate in voting surveys to earn ad-free time. 
@@ -129,7 +129,7 @@ The above feature can be availed by the user in the form of
 
 
 
- > ### 3. Limited Ad-free experience for Ad(s) Accrued in future videos.
+ > #### 3. Limited Ad-free experience for Ad(s) Accrued in future videos.
   
   
   The user can chose to go ad-free at for a given time and accrue all the ads over the future video(s).  
