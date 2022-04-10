@@ -28,7 +28,8 @@ While In-feed video, Bumper and outstream ads appear in either the search page o
 While the platform proffers the premium subscription model for ad-free viewing experience, however, majority of the users prefers to stay on the basic version. 
 
 ```
-With the proposed feature, our objective is to offer end-user some flexibility of going Ad-Free for a short span of time.
+Our objective is to improve overall viewing experience by offering end-user some flexibility of going Ad-Free for a short
+span of time. 
 ```
 
 ### Strategic Fit
@@ -42,29 +43,44 @@ With the proposed feature, our objective is to offer end-user some flexibility o
  1. The user interation is with smartphone device.. 
  2. Platform is accesses via Crome browser, i.e; *m.youtube.com* is accessed. 
 
-### User Stories and Requirements
 
-### Pain Point 
 
-### User Segmentation and Stories
+### User Personas
 
 Although the user base on YouTube can be classified on various grounds and based on various different parameters, the audience is divided in 4 broad sections:
 
-- Casual viewers: There main objective is to have entertaintment. The tags varies over a large area.
-- Skill developers: The university/school students who wants to build a skill (ex: programming language) and/or professionals who are seeking a career switch.
-- DIY enthusiasts: Users who are interested and invested in *Do-It-Yourself* videos. Users engagement can/may vary from cooking receipies to craftsmanship. 
-- Current affairs & trend followers: They want to watch a live video of a current event or listen to news / analysis about an event.
+- **Casual viewers**: There main objective is to have entertaintment. The tags varies over a large area.
+- **Skill developers**: The university/school students who wants to build a skill (ex: programming language) and/or professionals who are seeking a career switch.
+- **DIY enthusiasts**: Users who are interested and invested in *Do-It-Yourself* videos. Users engagement can/may vary from cooking receipies to craftsmanship. 
+- **Current affairs & trend followers**: They want to watch a live video of a current event or listen to news / analysis about an event.
+
+>Average run-time for the skill development and DIY content is longer than that of other categories. The proposed solution is conceptualized keeping **Skill developers** & **DIY enthusiasts** in the epicenter.
+
+### Pain Points 
+
+
+Since the average runtime of the highlighted content genre is substantially larger than that of other categories, it is assumable that viewers take break(s) in between. However, the overall user-experience reduces:
+
+1. When user have to watch multiple ads during the same video.
+2. when user have to pause the video for longer than 60 min and upon resuming a new ad is forced upon.
+3. when user have to pause the video for longer than 60 min and has to reload the video with a forced ad.
+4. when user have to switch between videos for connected content and have to watch ads upon switch. 
 
 
 
 **User Story** | **Requirement** | **Priority**
 -----------|-------------|---------
- As an end-user, I want to be able to watch a video uninterrupted.| |  
- As an end-user, I should be able to resume my videos, after a long duration, from the point where I paused it.| | 
- As an end-user, I do not want to see ads again when I switch back from another video to the ongoing playback. | | 
- As an end-user, I would like to get option to skip ads irrespective of the nature of ad.| |
- | | 
+ As an end-user, I want to be able to watch a video uninterrupted.| | Must have
+ As an end-user, I should be able to resume my videos, after a long duration, from the point where I paused it.| | Must have
+ As an end-user, I do not want to see ads again when I switch back from another video to the ongoing playback. | | Must have
+ As an end-user, I would like to get option to skip ads irrespective of the nature of ad.| | Optional
+ 
+---
+## Viable Solutions
 
+
+
+---
 ## Success Criteria
 
 ## Follow up tasks
