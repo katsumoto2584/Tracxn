@@ -1,6 +1,6 @@
 # PRODUCT REQUIREMENT DOCUMENT
 
-## `Background` 
+## Background
 
 YouTube's primary sources of revenue is Advertisements. While the focused revenue model benefits the users (owner), frequent in-feed video ads can  be a factor in dwindled user experience.
 
@@ -22,7 +22,7 @@ While In-feed video, Bumper and outstream ads appear in either the search page o
 ---
 
 
-## `Goal`
+## Goal
 
 
 While the platform proffers the premium subscription model for ad-free viewing experience, however, majority of the users prefers to stay on the basic version. 
@@ -35,7 +35,7 @@ shorter period of time.
 
 ---
 
-## `Scope`
+## Scope
 
 ### Technical Assumptions
 
@@ -76,7 +76,7 @@ Since the average runtime of the highlighted content genre is substantially larg
  As an end-user, I would like to get option to skip ads irrespective of the nature of ad.| The platform should provide an option to skip (tim- bound) Non- skippable in-stream ads| Optional
  
 ---
-## `Viable Solutions`
+## Viable Solutions
 
 Based on the user stories and requirements, following feature(s) are devised so that a user will be able to choose whether to:
 
@@ -147,7 +147,7 @@ After analysing implementation medium against each other, `Limited Ad-free exper
 
 ---
 
-## `Success Parameter`
+## Success Parameter
 
 Upon successful implementation, the user must be able to:
 
@@ -161,7 +161,7 @@ Upon successful implementation, the user must be able to:
 
 
 
-## `Follow up tasks`
+## Follow up tasks
 
 Upon submission of the above Product Requirement Document, following actions are required to be taken:
 
