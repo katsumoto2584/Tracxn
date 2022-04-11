@@ -32,7 +32,6 @@ Our objective is to improve overall viewing experience by offering end-user some
 shorter period of time. 
 ```
 
-### Strategic Fit
 
 ---
 
@@ -148,7 +147,19 @@ After analysing implementation medium against each other, `Limited Ad-free exper
 
 ---
 
-## `Success Criteria`
+## `Success Parameter`
+
+Upon successful implementation, the user must be able to:
+
+  - Activate ad-Free mode for a desired period of time.
+  - revove ads completely from a video of desire.
+  - chose whether to watch or skip the upcoming ads in an ongoing video.
+  - manage and purchase time credits from accounts area.
+
+
+---
+
+
 
 ## `Follow up tasks`
 
